@@ -3,7 +3,6 @@
 
 [![lsh4711's github stats](https://github-readme-stats.vercel.app/api?username=lsh4711&count_private=true&include_all_commits=true&custom_title=lsh4711's&nbsp;GitHub&bg_color=0,79c0ff,a5d6ff&title_color=388bfd&text_color=fff&show_icons=true&icon_color=388bfd)](https://github.com/lsh4711)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lsh4711&layout=compact&custom_title=Languages&bg_color=0,79c0ff,a5d6ff&title_color=388bfd&text_color=fff)](https://github.com/lsh4711)
-![test](https://teamdev.shop:8888/files/images?region=seoul)
 <!--
 **lsh4711/lsh4711** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

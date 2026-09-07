@@ -1,6 +1,6 @@
-[![lsh4711's Github](https://github-stats-extended.vercel.app/api?username=lsh4711&count_private=true&include_all_commits=false&custom_title=lsh4711's&nbsp;GitHub&bg_color=0,79c0ff,a5d6ff&title_color=388bfd&text_color=fff&show_icons=true&icon_color=388bfd&include_all_commits=true)](https://github.com/lsh4711)
-[![Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=lsh4711&layout=compact&custom_title=Languages&bg_color=0,79c0ff,a5d6ff&title_color=388bfd&text_color=fff)](https://github.com/lsh4711)
-[![hits](https://komarev.com/ghpvc/?username=lsh4711&color=79c0ff&label=hits&style=pixel)](https://github.com/lsh4711)
+[![lsh4711](https://github-stats-extended.vercel.app/api?username=lsh4711&count_private=true&include_all_commits=true&hide=contribs&custom_title=lsh4711&bg_color=0,79c0ff,a5d6ff&title_color=388bfd&text_color=fff&show_icons=true&icon_color=388bfd)](https://github.com/lsh4711)
+[![Language](https://github-stats-extended.vercel.app/api/top-langs/?username=lsh4711&layout=compact&custom_title=Language&bg_color=0,79c0ff,a5d6ff&title_color=388bfd&text_color=fff)](https://github.com/lsh4711)
+[![hit](https://komarev.com/ghpvc/?username=lsh4711&color=79c0ff&label=hit&style=pixel)](https://github.com/lsh4711)
 
 ## Contributions
 

@@ -53,4 +53,4 @@
 
 </details>
 
-<p align="right"><a href="https://github.com/lsh4711/lsh4711/commits"><img src="https://badgen.net/github/last-commit/lsh4711/lsh4711?label=sync&color=79c0ff" alt="sync"></a></p>
+<p align="center"><a href="https://github.com/lsh4711/lsh4711/commits"><img src="https://badgen.net/github/last-commit/lsh4711/lsh4711?label=sync&color=79c0ff" alt="sync"></a></p>

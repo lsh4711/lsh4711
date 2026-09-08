@@ -7,7 +7,7 @@
 6 projects, 16 contributions
 
 <details>
-<summary><b><a href="https://github.com/mikro-orm/mikro-orm">mikro-orm/mikro-orm</a></b> (★ 9.2k): 8 merged, 2 closed</summary>
+<summary><b><a href="https://github.com/mikro-orm/mikro-orm">mikro-orm/mikro-orm</a></b> (★ 9.2k): 2 closed, 8 merged</summary>
 
 - [2024-09] fix(schema): ensure `unsigned: false` works for primary keys ([#6063](https://github.com/mikro-orm/mikro-orm/pull/6063)) (merged)
 - [2024-09] fix(schema): ensure `CREATE TABLE` DDL for `tinyint/smallint/mediumint` primary keys ([#6065](https://github.com/mikro-orm/mikro-orm/pull/6065)) (merged)
@@ -21,7 +21,6 @@
 - [2024-12] fix(entity-generator): support multi-line comments ([#6290](https://github.com/mikro-orm/mikro-orm/pull/6290)) (merged)
 
 </details>
-
 <details>
 <summary><b><a href="https://github.com/qmk/qmk_firmware">qmk/qmk_firmware</a></b> (★ 20.7k): 2 merged</summary>
 
@@ -29,28 +28,24 @@
 - [2025-03] Fix path typo related RP2040 ([#25069](https://github.com/qmk/qmk_firmware/pull/25069)) (merged)
 
 </details>
-
 <details>
 <summary><b><a href="https://github.com/SchemaStore/schemastore">SchemaStore/schemastore</a></b> (★ 3.8k): 1 merged</summary>
 
 - [2026-09] Add missing `enum` for `crate-type` in `cargo.json` ([#6280](https://github.com/SchemaStore/schemastore/pull/6280)) (merged)
 
 </details>
-
 <details>
 <summary><b><a href="https://github.com/vial-kb/vial-qmk">vial-kb/vial-qmk</a></b> (★ 1.4k): 1 merged</summary>
 
 - [2023-06] Fix compile error when define constant mode ([#474](https://github.com/vial-kb/vial-qmk/pull/474)) (merged)
 
 </details>
-
 <details>
 <summary><b><a href="https://github.com/mikro-orm/nestjs">mikro-orm/nestjs</a></b> (★ 292): 1 closed</summary>
 
 - [2024-11] fix: ensure implicit config options load automatically ([#191](https://github.com/mikro-orm/nestjs/pull/191)) (closed)
 
 </details>
-
 <details>
 <summary><b><a href="https://forge.fedoraproject.org/atomic/docs">fedora/bootc/docs</a></b> (forge.fedoraproject.org): 1 merged</summary>
 
@@ -58,3 +53,4 @@
 
 </details>
 
+[![sync](https://badgen.net/github/last-commit/lsh4711/lsh4711?label=sync&color=79c0ff)](https://github.com/lsh4711/lsh4711/commits)

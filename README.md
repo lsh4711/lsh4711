@@ -7,7 +7,7 @@
 6 projects, 16 contributions
 
 <details>
-<summary><b><a href="https://github.com/mikro-orm/mikro-orm">mikro-orm/mikro-orm</a></b> (★ 9.2k): 2 closed, 8 merged</summary>
+<summary><b><a href="https://github.com/mikro-orm/mikro-orm">mikro-orm/mikro-orm</a></b> (★ 9.2k): 8 merged, 2 closed</summary>
 
 - [2024-09] fix(schema): ensure `unsigned: false` works for primary keys ([#6063](https://github.com/mikro-orm/mikro-orm/pull/6063)) (merged)
 - [2024-09] fix(schema): ensure `CREATE TABLE` DDL for `tinyint/smallint/mediumint` primary keys ([#6065](https://github.com/mikro-orm/mikro-orm/pull/6065)) (merged)

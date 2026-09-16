@@ -41,7 +41,7 @@
 
 </details>
 <details>
-<summary><b><a href="https://github.com/mikro-orm/nestjs">mikro-orm/nestjs</a></b> (★ 292): 1 closed</summary>
+<summary><b><a href="https://github.com/mikro-orm/nestjs">mikro-orm/nestjs</a></b> (★ 293): 1 closed</summary>
 
 - [2024-11] fix: ensure implicit config options load automatically ([#191](https://github.com/mikro-orm/nestjs/pull/191)) (closed)
 

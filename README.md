@@ -4,7 +4,7 @@
 
 ## Contributions
 
-6 projects, 16 contributions
+7 projects, 17 contributions
 
 <details>
 <summary><b><a href="https://github.com/mikro-orm/mikro-orm">mikro-orm/mikro-orm</a></b> (★ 9.2k): 8 merged, 2 closed</summary>
@@ -26,6 +26,12 @@
 
 - [2025-04] Fix missing and extra commas in JSON schema ([#25057](https://github.com/qmk/qmk_firmware/pull/25057)) (merged)
 - [2025-03] Fix path typo related RP2040 ([#25069](https://github.com/qmk/qmk_firmware/pull/25069)) (merged)
+
+</details>
+<details>
+<summary><b><a href="https://github.com/microsoft/TypeScript">microsoft/TypeScript</a></b> (★ 111.2k): 1 open</summary>
+
+- [2026-09] Prevent getTypeAtLocation crash on type-only import clause ([#64468](https://github.com/microsoft/TypeScript/pull/64468)) (open)
 
 </details>
 <details>

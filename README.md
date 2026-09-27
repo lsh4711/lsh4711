@@ -35,7 +35,7 @@
 
 </details>
 <details>
-<summary><b><a href="https://github.com/SchemaStore/schemastore">SchemaStore/schemastore</a></b> (★ 3.8k): 1 merged</summary>
+<summary><b><a href="https://github.com/SchemaStore/schemastore">SchemaStore/schemastore</a></b> (★ 3.9k): 1 merged</summary>
 
 - [2026-09] Add missing `enum` for `crate-type` in `cargo.json` ([#6280](https://github.com/SchemaStore/schemastore/pull/6280)) (merged)
 

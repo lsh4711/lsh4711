@@ -2,9 +2,11 @@
 [![Language](https://github-stats-extended.vercel.app/api/top-langs/?username=lsh4711&layout=compact&custom_title=Language&bg_color=0,79c0ff,a5d6ff&title_color=388bfd&text_color=fff)](https://github.com/lsh4711)
 [![hit](https://komarev.com/ghpvc/?username=lsh4711&color=79c0ff&label=hit&style=pixel)](https://github.com/lsh4711)
 
+- Peaked at 128th on [Programmers](https://programmers.co.kr), a Korean algorithm problem-solving platform (2023)
+
 ## Contributions
 
-7 projects, 17 contributions
+8 projects, 18 contributions
 
 <details>
 <summary><b><a href="https://github.com/mikro-orm/mikro-orm">mikro-orm/mikro-orm</a></b> (★ 9.2k): 8 merged, 2 closed</summary>
@@ -32,6 +34,12 @@
 <summary><b><a href="https://github.com/microsoft/TypeScript">microsoft/TypeScript</a></b> (★ 111.3k): 1 merged</summary>
 
 - [2026-09] Prevent getTypeAtLocation crash on type-only import clause ([#64468](https://github.com/microsoft/TypeScript/pull/64468)) (merged)
+
+</details>
+<details>
+<summary><b><a href="https://github.com/watchexec/watchexec">watchexec/watchexec</a></b> (★ 7.2k): 1 open</summary>
+
+- [2026-09] fix(fs): infer file type of removed paths from the event kind ([#1130](https://github.com/watchexec/watchexec/pull/1130)) (open)
 
 </details>
 <details>

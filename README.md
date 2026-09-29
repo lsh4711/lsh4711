@@ -29,9 +29,9 @@
 
 </details>
 <details>
-<summary><b><a href="https://github.com/microsoft/TypeScript">microsoft/TypeScript</a></b> (★ 111.3k): 1 open</summary>
+<summary><b><a href="https://github.com/microsoft/TypeScript">microsoft/TypeScript</a></b> (★ 111.3k): 1 merged</summary>
 
-- [2026-09] Prevent getTypeAtLocation crash on type-only import clause ([#64468](https://github.com/microsoft/TypeScript/pull/64468)) (open)
+- [2026-09] Prevent getTypeAtLocation crash on type-only import clause ([#64468](https://github.com/microsoft/TypeScript/pull/64468)) (merged)
 
 </details>
 <details>

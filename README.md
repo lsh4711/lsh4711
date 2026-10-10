@@ -24,7 +24,7 @@
 
 </details>
 <details>
-<summary><b><a href="https://github.com/qmk/qmk_firmware">qmk/qmk_firmware</a></b> (★ 20.7k): 2 merged</summary>
+<summary><b><a href="https://github.com/qmk/qmk_firmware">qmk/qmk_firmware</a></b> (★ 20.8k): 2 merged</summary>
 
 - [2025-04] Fix missing and extra commas in JSON schema ([#25057](https://github.com/qmk/qmk_firmware/pull/25057)) (merged)
 - [2025-03] Fix path typo related RP2040 ([#25069](https://github.com/qmk/qmk_firmware/pull/25069)) (merged)

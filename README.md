@@ -6,10 +6,10 @@
 
 ## Contributions
 
-8 projects, 18 contributions
+8 projects, 19 contributions
 
 <details>
-<summary><b><a href="https://github.com/mikro-orm/mikro-orm">mikro-orm/mikro-orm</a></b> (★ 9.2k): 8 merged, 2 closed</summary>
+<summary><b><a href="https://github.com/mikro-orm/mikro-orm">mikro-orm/mikro-orm</a></b> (★ 9.3k): 8 merged, 2 closed</summary>
 
 - [2024-09] fix(schema): ensure `unsigned: false` works for primary keys ([#6063](https://github.com/mikro-orm/mikro-orm/pull/6063)) (merged)
 - [2024-09] fix(schema): ensure `CREATE TABLE` DDL for `tinyint/smallint/mediumint` primary keys ([#6065](https://github.com/mikro-orm/mikro-orm/pull/6065)) (merged)
@@ -24,16 +24,17 @@
 
 </details>
 <details>
+<summary><b><a href="https://github.com/microsoft/TypeScript">microsoft/TypeScript</a></b> (★ 111.5k): 1 merged, 1 open</summary>
+
+- [2026-09] Prevent getTypeAtLocation crash on type-only import clause ([#64468](https://github.com/microsoft/TypeScript/pull/64468)) (merged)
+- [2026-10] Clear auto-import specifier cache when user preferences change ([#64821](https://github.com/microsoft/TypeScript/pull/64821)) (open)
+
+</details>
+<details>
 <summary><b><a href="https://github.com/qmk/qmk_firmware">qmk/qmk_firmware</a></b> (★ 20.8k): 2 merged</summary>
 
 - [2025-04] Fix missing and extra commas in JSON schema ([#25057](https://github.com/qmk/qmk_firmware/pull/25057)) (merged)
 - [2025-03] Fix path typo related RP2040 ([#25069](https://github.com/qmk/qmk_firmware/pull/25069)) (merged)
-
-</details>
-<details>
-<summary><b><a href="https://github.com/microsoft/TypeScript">microsoft/TypeScript</a></b> (★ 111.5k): 1 merged</summary>
-
-- [2026-09] Prevent getTypeAtLocation crash on type-only import clause ([#64468](https://github.com/microsoft/TypeScript/pull/64468)) (merged)
 
 </details>
 <details>

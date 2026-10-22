@@ -6,7 +6,7 @@
 
 ## Contributions
 
-8 projects, 19 contributions
+9 projects, 21 contributions
 
 <details>
 <summary><b><a href="https://github.com/mikro-orm/mikro-orm">mikro-orm/mikro-orm</a></b> (★ 9.3k): 8 merged, 2 closed</summary>
@@ -35,6 +35,13 @@
 
 - [2025-04] Fix missing and extra commas in JSON schema ([#25057](https://github.com/qmk/qmk_firmware/pull/25057)) (merged)
 - [2025-03] Fix path typo related RP2040 ([#25069](https://github.com/qmk/qmk_firmware/pull/25069)) (merged)
+
+</details>
+<details>
+<summary><b><a href="https://github.com/typescript-eslint/typescript-eslint">typescript-eslint/typescript-eslint</a></b> (★ 16.4k): 2 open</summary>
+
+- [2026-10] fix(eslint-plugin): [no-unnecessary-type-assertion] don't report double assertions from any-typed expressions ([#13082](https://github.com/typescript-eslint/typescript-eslint/pull/13082)) (open)
+- [2026-10] fix(eslint-plugin): [no-unnecessary-type-assertion] don't treat mutually assignable signatures as unchanged ([#13084](https://github.com/typescript-eslint/typescript-eslint/pull/13084)) (open)
 
 </details>
 <details>

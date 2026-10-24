@@ -2,11 +2,12 @@
 [![Language](https://github-stats-extended.vercel.app/api/top-langs/?username=lsh4711&layout=compact&custom_title=Language&bg_color=0,79c0ff,a5d6ff&title_color=388bfd&text_color=fff)](https://github.com/lsh4711)
 [![hit](https://komarev.com/ghpvc/?username=lsh4711&color=79c0ff&label=hit&style=pixel)](https://github.com/lsh4711)
 
+- Maintainer of [syscript](https://github.com/ssclang/syscript), a compiled language with TypeScript syntax
 - Peaked at 128th on [Programmers](https://programmers.co.kr), a Korean algorithm problem-solving platform (2023)
 
 ## Contributions
 
-9 projects, 21 contributions
+10 projects, 22 contributions
 
 <details>
 <summary><b><a href="https://github.com/mikro-orm/mikro-orm">mikro-orm/mikro-orm</a></b> (★ 9.3k): 8 merged, 2 closed</summary>
@@ -42,6 +43,12 @@
 
 - [2026-10] fix(eslint-plugin): [no-unnecessary-type-assertion] don't report double assertions from any-typed expressions ([#13082](https://github.com/typescript-eslint/typescript-eslint/pull/13082)) (open)
 - [2026-10] fix(eslint-plugin): [no-unnecessary-type-assertion] don't treat mutually assignable signatures as unchanged ([#13084](https://github.com/typescript-eslint/typescript-eslint/pull/13084)) (open)
+
+</details>
+<details>
+<summary><b><a href="https://github.com/llvm/llvm-project">llvm/llvm-project</a></b> (★ 41.2k): 1 open</summary>
+
+- [2026-10] [clang] Fix crash on __builtin_addressof of an overload set ([#235313](https://github.com/llvm/llvm-project/pull/235313)) (open)
 
 </details>
 <details>

@@ -52,7 +52,7 @@
 
 </details>
 <details>
-<summary><b><a href="https://github.com/watchexec/watchexec">watchexec/watchexec</a></b> (★ 7.2k): 1 merged</summary>
+<summary><b><a href="https://github.com/watchexec/watchexec">watchexec/watchexec</a></b> (★ 7.3k): 1 merged</summary>
 
 - [2026-09] fix(fs): infer file type of removed paths from the event kind ([#1130](https://github.com/watchexec/watchexec/pull/1130)) (merged)
 

@@ -46,7 +46,7 @@
 
 </details>
 <details>
-<summary><b><a href="https://github.com/llvm/llvm-project">llvm/llvm-project</a></b> (★ 41.2k): 1 open</summary>
+<summary><b><a href="https://github.com/llvm/llvm-project">llvm/llvm-project</a></b> (★ 41.3k): 1 open</summary>
 
 - [2026-10] [clang] Fix crash on __builtin_addressof of an overload set ([#235313](https://github.com/llvm/llvm-project/pull/235313)) (open)
 

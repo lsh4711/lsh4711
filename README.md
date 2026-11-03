@@ -46,9 +46,9 @@
 
 </details>
 <details>
-<summary><b><a href="https://github.com/llvm/llvm-project">llvm/llvm-project</a></b> (★ 41.3k): 1 open</summary>
+<summary><b><a href="https://github.com/llvm/llvm-project">llvm/llvm-project</a></b> (★ 41.3k): 1 merged</summary>
 
-- [2026-10] [clang] Fix crash on __builtin_addressof of an overload set ([#235313](https://github.com/llvm/llvm-project/pull/235313)) (open)
+- [2026-11] [clang] Fix crash on __builtin_addressof of an overload set ([#235313](https://github.com/llvm/llvm-project/pull/235313)) (merged)
 
 </details>
 <details>
@@ -70,7 +70,7 @@
 
 </details>
 <details>
-<summary><b><a href="https://github.com/mikro-orm/nestjs">mikro-orm/nestjs</a></b> (★ 296): 1 closed</summary>
+<summary><b><a href="https://github.com/mikro-orm/nestjs">mikro-orm/nestjs</a></b> (★ 297): 1 closed</summary>
 
 - [2024-11] fix: ensure implicit config options load automatically ([#191](https://github.com/mikro-orm/nestjs/pull/191)) (closed)
 

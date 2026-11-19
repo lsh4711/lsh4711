@@ -25,7 +25,7 @@
 
 </details>
 <details>
-<summary><b><a href="https://github.com/microsoft/TypeScript">microsoft/TypeScript</a></b> (★ 111.8k): 1 merged, 1 open</summary>
+<summary><b><a href="https://github.com/microsoft/TypeScript">microsoft/TypeScript</a></b> (★ 111.9k): 1 merged, 1 open</summary>
 
 - [2026-09] Prevent getTypeAtLocation crash on type-only import clause ([#64468](https://github.com/microsoft/TypeScript/pull/64468)) (merged)
 - [2026-10] Clear auto-import specifier cache when module specifier preferences change ([#64821](https://github.com/microsoft/TypeScript/pull/64821)) (open)

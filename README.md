@@ -7,7 +7,7 @@
 
 ## Contributions
 
-11 projects, 23 contributions
+11 projects, 24 contributions
 
 <details>
 <summary><b><a href="https://github.com/mikro-orm/mikro-orm">mikro-orm/mikro-orm</a></b> (★ 9.3k): 8 merged, 2 closed</summary>
@@ -46,6 +46,13 @@
 
 </details>
 <details>
+<summary><b><a href="https://github.com/nestjs/nest-cli">nestjs/nest-cli</a></b> (★ 2.2k): 2 merged</summary>
+
+- [2026-11] fix(compiler): use computed module resolution to detect esm projects ([#3714](https://github.com/nestjs/nest-cli/pull/3714)) (merged)
+- [2026-11] chore: run prettier on staged files ([#3715](https://github.com/nestjs/nest-cli/pull/3715)) (merged)
+
+</details>
+<details>
 <summary><b><a href="https://github.com/llvm/llvm-project">llvm/llvm-project</a></b> (★ 41.5k): 1 merged</summary>
 
 - [2026-11] [clang] Fix crash on __builtin_addressof of an overload set ([#235313](https://github.com/llvm/llvm-project/pull/235313)) (merged)
@@ -61,12 +68,6 @@
 <summary><b><a href="https://github.com/SchemaStore/schemastore">SchemaStore/schemastore</a></b> (★ 3.9k): 1 merged</summary>
 
 - [2026-09] Add missing `enum` for `crate-type` in `cargo.json` ([#6280](https://github.com/SchemaStore/schemastore/pull/6280)) (merged)
-
-</details>
-<details>
-<summary><b><a href="https://github.com/nestjs/nest-cli">nestjs/nest-cli</a></b> (★ 2.2k): 1 merged</summary>
-
-- [2026-11] fix(compiler): use computed module resolution to detect esm projects ([#3714](https://github.com/nestjs/nest-cli/pull/3714)) (merged)
 
 </details>
 <details>

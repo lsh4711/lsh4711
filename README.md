@@ -7,7 +7,7 @@
 
 ## Contributions
 
-10 projects, 22 contributions
+11 projects, 23 contributions
 
 <details>
 <summary><b><a href="https://github.com/mikro-orm/mikro-orm">mikro-orm/mikro-orm</a></b> (★ 9.3k): 8 merged, 2 closed</summary>
@@ -61,6 +61,12 @@
 <summary><b><a href="https://github.com/SchemaStore/schemastore">SchemaStore/schemastore</a></b> (★ 3.9k): 1 merged</summary>
 
 - [2026-09] Add missing `enum` for `crate-type` in `cargo.json` ([#6280](https://github.com/SchemaStore/schemastore/pull/6280)) (merged)
+
+</details>
+<details>
+<summary><b><a href="https://github.com/nestjs/nest-cli">nestjs/nest-cli</a></b> (★ 2.2k): 1 merged</summary>
+
+- [2026-11] fix(compiler): use computed module resolution to detect esm projects ([#3714](https://github.com/nestjs/nest-cli/pull/3714)) (merged)
 
 </details>
 <details>
